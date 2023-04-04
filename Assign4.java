@@ -5,6 +5,7 @@ public class Assign4 {
 	
 	String s1 = " This is exerceise 1 "; 
 	String s2 = " This is Exerceise 1 "; 
+		
 	//int result;
 	
 	//result = s1.compareToIgnoreCase(s2) ;
